@@ -1,0 +1,11 @@
+{
+  "name": "pruebaai",
+  "version": "1.0.0",
+  "description": "es un proyecto de prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Hugo",
+  "license": "ISC"
+}
